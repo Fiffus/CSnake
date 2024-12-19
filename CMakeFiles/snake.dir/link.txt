@@ -1,1 +1,0 @@
-/usr/bin/cc  -Wall -Wextra -pedantic CMakeFiles/snake.dir/src/entities/grid.c.o CMakeFiles/snake.dir/src/entities/point.c.o CMakeFiles/snake.dir/src/entities/snake.c.o CMakeFiles/snake.dir/src/entities/tile.c.o CMakeFiles/snake.dir/src/main.c.o CMakeFiles/snake.dir/src/utils.c.o -o snake  -lm /usr/lib/x86_64-linux-gnu/libSDL2.so 
