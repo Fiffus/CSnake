@@ -1,0 +1,3 @@
+/home/fiffus/Projects/Personal/C/Snake/CMakeFiles/snake.dir
+/home/fiffus/Projects/Personal/C/Snake/CMakeFiles/edit_cache.dir
+/home/fiffus/Projects/Personal/C/Snake/CMakeFiles/rebuild_cache.dir

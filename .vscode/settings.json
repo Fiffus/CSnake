@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "snake.h": "c",
+        "tile.h": "c",
+        "sdl.h": "c",
+        "point.h": "c",
+        "grid.h": "c",
+        "sdl_render.h": "c"
+    }
+}
